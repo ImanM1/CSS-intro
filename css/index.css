@@ -1,0 +1,32 @@
+h1 { 
+	color: red;
+	text-decoration: underline;
+	font-size: 70px;
+}
+
+
+ul li {
+
+	color:blue;
+
+}
+
+ol li {
+
+	color:pink;
+
+}
+
+#try {
+	color: green;
+}
+
+
+#square { width: 200px;
+height: 200px;
+background-color:#AABBCC;
+padding: 50px;
+border: 50px solid red;
+margin: 50px; }
+
+ 
